@@ -48,7 +48,7 @@ As a Computer Science undergraduate, I'm driven by a passion for building innova
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidsbgithub&show_icons=true&theme=transparent&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsbgithub&layout=compact&langs_count=8&theme=transparent&bg_color=0d1117&hide=jupyter%20notebook,html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidsbgithub&layout=compact&langs_count=8&theme=transparent&bg_color=0d1117"/>
 </p>
 
 ---
