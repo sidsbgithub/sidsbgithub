@@ -49,5 +49,5 @@
 
 <p align="center">
 <a href="https://siddhant.s.bisht@gmail.com"><img src="https://img.shields.io/badge/-siddhant.s.bisht@gmail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/siddhantsinghbisht"><img src="https://img.shields.io/badge/-Siddhant%20Singh%20SBisht-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/siddhantsinghbisht"><img src="https://img.shields.io/badge/-Siddhant%20Singh%20Bisht-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
