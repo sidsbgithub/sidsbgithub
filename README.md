@@ -56,11 +56,14 @@ As a Computer Science undergraduate, I'm driven by a passion for building innova
 ### ✨ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sidsbgithub/REPO-NAME">
+  <a href="https://github.com/sidsbgithub/EnergyForecasting">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidsbgithub&repo=EnergyForecasting&theme=transparent&bg_color=0d1117" alt="Project 1"/>
   </a>
-  <a href="https://github.com/sidsbgithub/ANOTHER-REPO">
+  <a href="https://github.com/sidsbgithub/MurphysLawAI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidsbgithub&repo=MurphysLawAI&theme=transparent&bg_color=0d1117" alt="Project 2"/>
+  </a>
+  <a href="https://github.com/sidsbgithub/REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidsbgithub&repo=EnergyForecasting&theme=transparent&bg_color=0d1117" alt="Project 1"/>
   </a>
 </p>
 
